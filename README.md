@@ -17,6 +17,7 @@ By leveraging digital tools, the project provides actionable insights to enhance
 
 ### Call Centre Trends
 The first dashboard offers a detailed analysis of call center metrics, highlighting customer satisfaction, call volumes, and agent performance. It identifies key areas for improvement, enabling enhanced operational efficiency and better service delivery.
+
 ![](https://github.com/user-attachments/assets/069ad0eb-7e21-4549-ae6c-9e2d9ff72237)
 
 ![](https://github.com/user-attachments/assets/3030265d-3582-4397-a57d-e09de5c964b6)
@@ -27,6 +28,7 @@ The first dashboard offers a detailed analysis of call center metrics, highlight
 ### Customer Retention
 
 Developed at the request of the telecom's Retention Manager, this dashboard highlights key metrics on customer loyalty and churn. It provides predictive insights and identifies strategies to improve customer retention and foster long-term loyalty.
+
 <!-- <p align="center">
     <img src="" alt="Call Centre Trends" style="width: 80%"/>
 </p> -->
@@ -39,6 +41,7 @@ Developed at the request of the telecom's Retention Manager, this dashboard high
 ### Diversity & Inclusion
 
 Designed to support the telecom client's goal of enhancing gender balance at the executive level, this dashboard visualizes diversity and inclusion metrics, providing actionable insights into trends and highlighting areas for improvement.
+
 ![](https://github.com/user-attachments/assets/a709fed0-4c2c-4e7b-ae75-86037c6b66ab)
 ![](https://github.com/user-attachments/assets/5acbccdf-6599-44dd-aa1a-f3ed59e12184)
 
